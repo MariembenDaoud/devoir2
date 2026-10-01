@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.mohamed.produits.entities.produit;
-import com.mohamed.produits.repos.ProduitRepository;
+import com.mariem.produits.entities.produit;
+import com.mariem.produits.repos.ProduitRepository;
 
 @SpringBootTest
 class ProduitsApplicationTests {
