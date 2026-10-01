@@ -1,4 +1,4 @@
-package com.mohamed.produits.service;
+package com.mariem.produits.service;
 
 import java.util.List;
 
